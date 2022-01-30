@@ -1,0 +1,4 @@
+E:\програмер\programki\ShapesOOP\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+E:\програмер\programki\ShapesOOP\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\програмер\programki\ShapesOOP\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+E:\програмер\programki\ShapesOOP\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
